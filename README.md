@@ -1,5 +1,7 @@
 **NAME:SANDEEP**
+
 **REG NO:24900896**
+
 **EX NO 2:BOOLEAN FUNCTION MINIMIZATION**
 
 **AIM:**
@@ -13,12 +15,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 **Equipment Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
-
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
 
 **Procedure**
 
@@ -34,16 +30,14 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
 ![image](https://github.com/user-attachments/assets/0df8d015-1078-41d9-81f8-50d246547fac)
 
-
-
-
 **RTL realization Output**
+
 ![image](https://github.com/user-attachments/assets/f529fd58-1f9a-43fd-80a8-0889ea4d653d)
 
 **TRUTH TABLE**
-
 
 ![image](https://github.com/user-attachments/assets/5016176f-afc1-4b3e-832e-3f98e3bae5f2)
 
